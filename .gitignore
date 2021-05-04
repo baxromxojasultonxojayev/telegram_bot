@@ -1,0 +1,5 @@
+*package-lock.json
+node_modules/
+
+const TOKEN = `1574041474:AAH9iWTahW-IR0wH_cS7DgFV_593R62Cd3Q`
+const PAYME_TOKEN = `371317599:TEST:1620070791566`
